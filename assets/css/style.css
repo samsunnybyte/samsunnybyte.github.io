@@ -66,6 +66,17 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 2;
 }
 
+.h2rs {
+  font-size: 40px;
+  font-weight: 700;
+/*   text-transform: title case; */
+  margin-bottom: 20px;
+  padding-bottom: 0;
+  color: #de212b;
+  position: relative;
+  z-index: 2;
+}
+
 .h3s {
   font-size: 30px;
   font-weight: 700;
